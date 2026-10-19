@@ -1,0 +1,11 @@
+# Heavy Datasets & Pickle Files
+*.csv
+*.pkl
+
+# Allow only sample submission
+!sample_submission.csv
+
+# Auto-generated Logs & Folders
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
