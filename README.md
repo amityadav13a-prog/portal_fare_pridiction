@@ -7,7 +7,7 @@
 ## 📂 Project Structure
 
 ```
-├── portal_fare_complete_A_to_Z.ipynb   # Full ML pipeline notebook
+├── portal_fare_pridiction.ipynb         # Full ML pipeline notebook
 ├── sample_submission.csv               # Sample submission format
 ├── .gitignore                          # Git ignore rules
 └── README.md                           # You are here!
@@ -52,7 +52,7 @@
 2. Place the dataset files (`train.csv`, `test.csv`) in the root directory.
 3. Open and run the notebook:
    ```bash
-   jupyter notebook portal_fare_complete_A_to_Z.ipynb
+   jupyter notebook portal_fare_pridiction.ipynb
    ```
 
 ---
